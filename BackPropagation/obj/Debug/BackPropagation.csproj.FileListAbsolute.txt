@@ -1,0 +1,10 @@
+C:\Users\saylo\OneDrive\Desktop\CSharpVisualStudio\IntelligentSystems1\BackPropagation\BackPropagation\bin\Debug\BackPropagation.exe.config
+C:\Users\saylo\OneDrive\Desktop\CSharpVisualStudio\IntelligentSystems1\BackPropagation\BackPropagation\bin\Debug\BackPropagation.exe
+C:\Users\saylo\OneDrive\Desktop\CSharpVisualStudio\IntelligentSystems1\BackPropagation\BackPropagation\bin\Debug\BackPropagation.pdb
+C:\Users\saylo\OneDrive\Desktop\CSharpVisualStudio\IntelligentSystems1\BackPropagation\BackPropagation\obj\Debug\BackPropagation.csproj.AssemblyReference.cache
+C:\Users\saylo\OneDrive\Desktop\CSharpVisualStudio\IntelligentSystems1\BackPropagation\BackPropagation\obj\Debug\BackPropagation.Form1.resources
+C:\Users\saylo\OneDrive\Desktop\CSharpVisualStudio\IntelligentSystems1\BackPropagation\BackPropagation\obj\Debug\BackPropagation.Properties.Resources.resources
+C:\Users\saylo\OneDrive\Desktop\CSharpVisualStudio\IntelligentSystems1\BackPropagation\BackPropagation\obj\Debug\BackPropagation.csproj.GenerateResource.cache
+C:\Users\saylo\OneDrive\Desktop\CSharpVisualStudio\IntelligentSystems1\BackPropagation\BackPropagation\obj\Debug\BackPropagation.csproj.CoreCompileInputs.cache
+C:\Users\saylo\OneDrive\Desktop\CSharpVisualStudio\IntelligentSystems1\BackPropagation\BackPropagation\obj\Debug\BackPropagation.exe
+C:\Users\saylo\OneDrive\Desktop\CSharpVisualStudio\IntelligentSystems1\BackPropagation\BackPropagation\obj\Debug\BackPropagation.pdb
